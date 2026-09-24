@@ -1,7 +1,8 @@
----
+saidy
+gshshu---
 manufacturer:
     - general
----
+-gshxgxhxvsh--
 
 ### Android 6+
 
